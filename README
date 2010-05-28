@@ -1,0 +1,5 @@
+cocoa-rss is a simple RSS parser for Objective-C / Cocoa, extracted from the Rackspace Cloud Pro iPad app.
+
+For example usage, check out the Example project, which uses ASIHttpRequest.
+
+Mike Mayo - mike@overhrd.com - twitter: @greenisus
