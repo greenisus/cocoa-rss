@@ -9,7 +9,7 @@
 
 @class FeedItem;
 
-@interface RSSParser : NSObject {
+@interface RSSParser : NSObject <NSXMLParserDelegate> {
 	NSMutableString *currentElementValue;
 	NSString *currentDataType;
 	FeedItem *feedItem;
