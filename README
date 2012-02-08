@@ -2,4 +2,6 @@ cocoa-rss is a simple RSS parser for Objective-C / Cocoa, extracted from the Rac
 
 For example usage, check out the Example project, which uses ASIHttpRequest.
 
+cocoa-rss is provided under the Apache 2.0 license. For full text of the license, visit http://www.apache.org/licenses/LICENSE-2.0
+
 Mike Mayo - mike@overhrd.com - twitter: @greenisus
